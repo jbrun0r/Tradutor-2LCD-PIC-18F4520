@@ -6,7 +6,7 @@
 
 ## Resumo:
 Usando um **PIC-18F4520** e as ferramentas **MPLAB** e **Proteus**, desenvolva
-os seguintes _Sistemas Embarcados_: Usando interface _4 bits_, coloque 2 módulos _LCD_ no **PIC 18F4520** e
+o seguinte _Sistema Embarcado_: Usando interface _4 bits_, coloque 2 módulos _LCD_ no **PIC 18F4520** e
 faça um programa que mostre uma palavra em português no LCD 1 e
 em inglês no LCD 2.
 
